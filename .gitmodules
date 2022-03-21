@@ -1,0 +1,3 @@
+[submodule "submodule_test_auxrepo"]
+	path = submodule_test_auxrepo
+	url = https://github.com/pedroamamorim/submodule_test_auxrepo
